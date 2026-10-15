@@ -5,7 +5,9 @@
 }
 
 .header h1 {
-  margin: 0;
+  margin: 10px 0 6px;
+  text-align: center;
+  margin-bottom: 15px;
   font-size: 40px;
   letter-spacing: -0.5px;
 }
@@ -119,14 +121,4 @@
 .fill.down { background: #22c55e; }
 .fill.up { background: #a855f7; }
 
-.hint {
-  margin-top: 16px;
-  font-size: 13px;
-  color: #9aa7bd;
-}
 
-.hint code {
-  background: #0f1420;
-  padding: 2px 6px;
-  border-radius: 6px;
-}
